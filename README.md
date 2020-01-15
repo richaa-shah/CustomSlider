@@ -1,2 +1,0 @@
-# CustomSlider
-Created with CodeSandbox
